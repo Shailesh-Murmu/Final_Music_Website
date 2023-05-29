@@ -51,7 +51,7 @@ const songs = [
 
 const artist = [
     {
-        poster: "Dualipa.webp",
+        poster: "DuaLipa.webp",
         name: "Dua Lipa"
     },
     {
